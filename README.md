@@ -2,6 +2,10 @@
   
 
 <br/>  
+Most of my Projects are private sorry. Because of this my stats arent correctly displayed.
+
+
+<br/>  
 
 
 ## My Skill Set  
