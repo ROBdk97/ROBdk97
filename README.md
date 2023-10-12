@@ -18,20 +18,8 @@
 
 
 ### Glad to see you here!  
-Description  
-  
 
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+Most of my Projects are Private so you can´t really see the real Stats!
 
 <br/>  
 
