@@ -77,7 +77,11 @@ Discord: @robdk97
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ROBdk97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ROBdk97&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%"  /></div>  
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBdk97&hide_border=true&layout=compact" align="center" style="width: 100%" />
 
 <br/>
 
